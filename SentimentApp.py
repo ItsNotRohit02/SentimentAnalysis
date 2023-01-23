@@ -33,4 +33,3 @@ with st.container():
     st.write(value)
     st.caption('Made by Rohit')
     st.markdown("[![Foo](https://cdn-icons-png.flaticon.com/24/25/25231.png)](https://github.com/ItsNotRohit02)")
-
